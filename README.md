@@ -1,2 +1,2 @@
 # M-VehBlacklist
-A Simple Vehicle Blacklist script through Discord ID's
+<br/>A simple Vehicle Blacklist script, for support join: https://discord.gg/cPSAuJppyr
